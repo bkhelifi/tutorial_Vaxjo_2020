@@ -21,6 +21,6 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
 
 ### TeV Background estimation <a id="bkg"></a>
 <p float="left">
-  <img src="figures/RadialAcceptance.png" width="25%">
-  <img src="figures/BkgMaker.png" width="70%">
+  <img src="figures/RadialAcceptance.png" width="30%">
+  <img src="figures/BkgMaker.png" width="50%">
 </p>
