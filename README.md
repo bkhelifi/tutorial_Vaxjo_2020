@@ -22,7 +22,7 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
 
 {% img figures/data_flow_gammapy.png 100x200 %}
 
-![Data Processing](figures/data_flow_gammapy.png) <!-- .element height="50%" width="50%" -->
+<img src="figures/data_flow_gammapy.png" width="40%">
 
 ![Data Processing](figures/data_flow_gammapy.png)
 
