@@ -9,8 +9,9 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
     3. [TeV Background estimation](#bkg)
 3. [Installation](#install)
 4. [Astropy tutorial](#astropy)
-4. [My first H.E.S.S. Crab analysis](#firstCrab)
-6. [To contact the gammapy team](#contact)
+5. [My first H.E.S.S. Crab analysis](#firstCrab)
+6. [High Level Interface: an other way to analyse data](#HLI)
+7. [To contact the gammapy team](#contact)
 
 ## 1. Gammapy documentation and GitHub <a id="doc"></a>
 * gammapy project webpage: https://gammapy.org/
@@ -42,9 +43,19 @@ Caption: Acceptance of the residual hadronic background (left), Ring Background 
 [Units, Coordinates, Tables, FITS and WCS](https://github.com/Asterics2020-Obelics/School2019/blob/master/astropy/astropy_hands_on.ipynb)
 
 ## 5. My first H.E.S.S. Crab analysis <a id="firstCrab"></a>
-[Link towards the notebook](https://docs.gammapy.org/0.15/notebooks/analysis_2.html)
+[Link towards the notebook](notebooks/FirstCrab.ipynb)
 
-## x.  <a id=""></a>
+Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks/analysis_2.html
+
+## 6. High Level Interface: an other way to analyse data <a id="HLI"></a>
+The HLI is a supplementary interface allowing:
+* configuration of an analysis from a YAML file, which allows the setup of analysis pipelines
+* stable interface for the users, whatever the evolution of the low-level APIs
+* usable via notebooks, python scripts (or [click](https://docs.gammapy.org/0.15/scripts/index.html?highlight=click) command lines)
+
+API documentation of the HLI: [Link](https://docs.gammapy.org/0.15/analysis/index.html)
+
+Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks/analysis_1.html
 
 ## x.  <a id=""></a>
 
