@@ -17,15 +17,9 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
 ### Data format <a id="DL"></a>
 ![Data levels](figures/data_flow_full.png)
 ### Data processing <a id="process"></a>
-
-<div style="width:50%">[Data Processing](figures/data_flow_gammapy.png)</div>
-
-{% img figures/data_flow_gammapy.png 100x200 %}
-
 <img src="figures/data_flow_gammapy.png" width="40%">
 
-![Data Processing](figures/data_flow_gammapy.png)
-
 ### TeV Background estimation <a id="bkg"></a>
-![Radial Acceptance](figures/RadialAcceptance.png)
+<img src="figures/RadialAcceptance.png" width="40%">
+
 ![Estimations](figures/BkgMaker.png)
