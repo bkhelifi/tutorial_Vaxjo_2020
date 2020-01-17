@@ -11,7 +11,8 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
 4. [Astropy tutorial](#astropy)
 5. [My first H.E.S.S. Crab analysis](#firstCrab)
 6. [High Level Interface: an other way to analyse data](#HLI)
-7. [To contact the gammapy team](#contact)
+7. [Multi-wavelength analysis of the Crab](#jointCrab)
+8. [To contact the gammapy team](#contact)
 
 ## 1. Gammapy documentation and GitHub <a id="doc"></a>
 * gammapy project webpage: https://gammapy.org/
@@ -55,11 +56,17 @@ The HLI is a supplementary interface allowing:
 
 API documentation of the HLI: [Link](https://docs.gammapy.org/0.15/analysis/index.html)
 
+[Link towards the notebook](notebooks/HLI.ipynb)
+
 Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks/analysis_1.html
 
-## x.  <a id=""></a>
+## 7. Multi-wavelength analysis of the Crab <a id="jointCrab"></a>
 
-## xx. To contact the gammapy team <a id="contact"></a>
+[Link towards the notebook](notebooks/analysis_mwl.ipynb)
+
+Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks/analysis_mwl.html?highlight=joint%20crab
+
+## 8. To contact the gammapy team <a id="contact"></a>
 * Mail: gammapy-cta-l@in2p3.fr
 * Slack: https://gammapy.slack.com/archives/C0HP0KKL1
 * Coordination Committee: GAMMAPY-COORDINATION-L@IN2P3.FR 
