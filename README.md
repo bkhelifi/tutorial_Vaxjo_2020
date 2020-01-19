@@ -12,7 +12,11 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
 5. [My first H.E.S.S. Crab analysis](#firstCrab)
 6. [High Level Interface: an other way to analyse data](#HLI)
 7. [Multi-wavelength analysis of the Crab](#jointCrab)
-8. [To contact the gammapy team](#contact)
+8. [An AGN analysis](#agn)
+    1. [Making maps and get the position](#pos)
+    2. [Spectra Extraction](#sp)
+    3. [Light Curve](#lc)
+9. [To contact the gammapy team](#contact)
 
 ## 1. Gammapy documentation and GitHub <a id="doc"></a>
 * gammapy project webpage: https://gammapy.org/
@@ -34,7 +38,8 @@ Repository of the materials used for the gammapy tutorials made in Vaxjo, Sweden
   <img src="figures/RadialAcceptance.png" width="30%">
   <img src="figures/BkgMaker.png" width="55%">
 </p>
-Caption: Acceptance of the residual hadronic background (left), Ring Background estimation (center), Reflected Background estimation (right)
+Caption: Acceptance of the residual hadronic background (left), Ring Background estimation (center), Reflected Background estimation (right) - Berge, Funk, Hinton, 2006, 
+[arXiv:astro-ph/0610959](https://arxiv.org/abs/astro-ph/0610959v1)
 
 ## 3. Installation <a id="instal"></a>
 * [Installation step (V0.15)](https://docs.gammapy.org/0.15/install/index.html)
@@ -66,7 +71,23 @@ Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks
 
 Link towards the documentation notebook: https://docs.gammapy.org/0.15/notebooks/analysis_mwl.html?highlight=joint%20crab
 
-## 8. To contact the gammapy team <a id="contact"></a>
+## 8. An AGN analysis <a id="AGN"></a>
+### 8.1 Making maps and get the position <a id="pos"></a>
+[BkgModel vs RingBkg](https://docs.gammapy.org/0.15/notebooks/image_analysis.html)
+
+### 8.2 Spectra Extraction <a id="sp"></a>
+[1D analysis](https://docs.gammapy.org/0.15/notebooks/spectrum_analysis.html)
+
+[3D analysis](https://docs.gammapy.org/0.15/notebooks/analysis_3d.html)
+
+
+### 8.3 Light Curve <a id="lc"></a>
+
+[1D analysis: notebooks/light_curve_flare.html](https://docs.gammapy.org/0.15/notebooks/light_curve_flare.html)
+
+[With the Analysis class: 1D vs 3D](https://docs.gammapy.org/0.15/notebooks/light_curve.html)
+
+## 9. To contact the gammapy team <a id="contact"></a>
 * Mail: gammapy-cta-l@in2p3.fr
 * Slack: https://gammapy.slack.com/archives/C0HP0KKL1
 * Coordination Committee: GAMMAPY-COORDINATION-L@IN2P3.FR 
